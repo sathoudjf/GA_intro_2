@@ -9,3 +9,15 @@ if (isGameOver == true){
 }
 
 console.log("End of file")
+
+for (let i = 0; ; afterThought) {
+
+}
+
+// const characters =["Garnet", "Amethyst", "Pear", "Ruby"]
+
+function sing(){
+    console.log(“Look at the stars”);
+} 
+
+sing();
